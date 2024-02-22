@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hola, soy Erika Katherin 🚀
 
-<!--
-**ErikaKath/ErikaKath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil! Soy una estudiante de ingeniería de sistemas con una pasión ardiente por el test automation y la calidad de software. Me dedico a utilizar herramientas como Java, Cucumber, Gradle y Selenium WebDriver, aplicando los patrones Screenplay y POM para optimizar mis proyectos. Además, tengo experiencia trabajando con JMeter.
 
-Here are some ideas to get you started:
+## 📋 Lo que hago:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automatización de pruebas con Java y Cucumber 🤖
+- Implementación del patrón Screenplay y POM 📝
+- Medición de rendimiento con JMeter ⚡
+- Aprendiendo pruebas de servicio 📡
+
+## 💡 ¿Qué busco?
+
+Me encantaría colaborar con otros miembros de la comunidad relacionados con el testing. Estoy aquí para compartir conocimientos 🤓, fortalecer habilidades 🧠 y seguir aprendiendo en el emocionante mundo del testing 🤩😀.
+
+## 💬Conéctate conmigo
+
+¡Vamos a charlar! Encuéntrame en [LinkedIn](www.linkedin.com/in/erika-katherin-ekop-testing) y comencemos esta aventura juntos. 🌟
+
