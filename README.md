@@ -11,6 +11,10 @@
 - Medición de rendimiento con JMeter ⚡
 - Aprendiendo pruebas de servicio 📡
 
+## 📋 Habilidades tecnicas:
+https://img.shields.io/badge/automation-path?style=plastic&logo=selenium
+
+
 ## 💡 ¿Qué busco?
 
 Me encantaría colaborar con otros miembros de la comunidad relacionados con el testing. Estoy aquí para compartir conocimientos 🤓, fortalecer habilidades 🧠 y seguir aprendiendo en el emocionante mundo del testing 🤩😀.
