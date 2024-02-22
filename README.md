@@ -1,3 +1,5 @@
+![Banner](https://github.com/ErikaKath/ErikaKath/blob/main/banner.png)
+
 # 👋 Hola, soy Erika Katherin 🚀
 
 ¡Bienvenido a mi perfil! Soy una estudiante de ingeniería de sistemas con una pasión ardiente por el test automation y la calidad de software. Me dedico a utilizar herramientas como Java, Cucumber, Gradle y Selenium WebDriver, aplicando los patrones Screenplay y POM para optimizar mis proyectos. Además, tengo experiencia trabajando con JMeter.
