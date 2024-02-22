@@ -12,7 +12,8 @@
 - Aprendiendo pruebas de servicio 📡
 
 ## 📋 Habilidades tecnicas:
-https://img.shields.io/badge/automation-path?style=plastic&logo=selenium
+![Static Badge](https://img.shields.io/badge/automation-path?style=plastic&logo=selenium)
+
 
 
 ## 💡 ¿Qué busco?
